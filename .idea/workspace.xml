@@ -28,7 +28,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.Duplicate-encoder">
+  <component name="RunManager" selected="Python.Which-are-in">
     <configuration name="Bit-Counting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewarsprojects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,6 +92,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Which-are-in" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewarsprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Which-are-in.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Write-Number-in-Expanded-Form" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewarsprojects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,34 +134,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="number-digits-raised-to-consecutive-powers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewarsprojects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number-digits-raised-to-consecutive-powers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Which-are-in" />
         <item itemvalue="Python.Duplicate-encoder" />
         <item itemvalue="Python.Format-a-string-of-names" />
         <item itemvalue="Python.Bit-Counting" />
         <item itemvalue="Python.Write-Number-in-Expanded-Form" />
-        <item itemvalue="Python.number-digits-raised-to-consecutive-powers" />
       </list>
     </recent_temporary>
   </component>
@@ -174,38 +174,38 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576453035467" />
-    <state width="1900" height="297" key="GridCell.Tab.0.bottom" timestamp="1576467405104">
+    <state width="1900" height="297" key="GridCell.Tab.0.bottom" timestamp="1576475185223">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576467405104" />
-    <state width="1900" height="297" key="GridCell.Tab.0.center" timestamp="1576467405103">
+    <state width="1900" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576475185223" />
+    <state width="1900" height="297" key="GridCell.Tab.0.center" timestamp="1576475185223">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="297" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576467405103" />
-    <state width="1900" height="297" key="GridCell.Tab.0.left" timestamp="1576467405103">
+    <state width="1900" height="297" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576475185223" />
+    <state width="1900" height="297" key="GridCell.Tab.0.left" timestamp="1576475185223">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="297" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576467405103" />
-    <state width="1900" height="297" key="GridCell.Tab.0.right" timestamp="1576467405104">
+    <state width="1900" height="297" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576475185223" />
+    <state width="1900" height="297" key="GridCell.Tab.0.right" timestamp="1576475185223">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="297" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576467405104" />
-    <state width="1900" height="363" key="GridCell.Tab.1.bottom" timestamp="1576459500003">
+    <state width="1900" height="297" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576475185223" />
+    <state width="1900" height="363" key="GridCell.Tab.1.bottom" timestamp="1576471408843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576459500003" />
-    <state width="1900" height="363" key="GridCell.Tab.1.center" timestamp="1576459500003">
+    <state width="1900" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576471408843" />
+    <state width="1900" height="363" key="GridCell.Tab.1.center" timestamp="1576471408843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="363" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576459500003" />
-    <state width="1900" height="363" key="GridCell.Tab.1.left" timestamp="1576459500003">
+    <state width="1900" height="363" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576471408843" />
+    <state width="1900" height="363" key="GridCell.Tab.1.left" timestamp="1576471408843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="363" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576459500003" />
-    <state width="1900" height="363" key="GridCell.Tab.1.right" timestamp="1576459500003">
+    <state width="1900" height="363" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576471408843" />
+    <state width="1900" height="363" key="GridCell.Tab.1.right" timestamp="1576471408843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576459500003" />
+    <state width="1900" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576471408843" />
     <state x="491" y="184" key="SettingsEditor" timestamp="1576365785057">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

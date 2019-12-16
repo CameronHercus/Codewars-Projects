@@ -20,7 +20,8 @@ def duplicate_encode2(word):
     for i in word:
         # average of O(1) complexity of in set/dict
         char_dict[i] = ")" if i in char_dict else "("
+    print(char_dict)
     return "".join(char_dict[i] for i in word)
 
 
-# print(duplicate_encode2("Success"))
+print(duplicate_encode2("Success"))
