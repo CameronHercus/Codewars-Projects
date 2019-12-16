@@ -1,3 +1,4 @@
+# O(n^2)
 def duplicate_encode(word):
     str1 = ""
     for i in word.lower():
@@ -7,5 +8,19 @@ def duplicate_encode(word):
         else:
             str1 += "("
     return str1
-# make lambda func that calls and then formats {}* len of word
-print(duplicate_encode("Success"))
+
+
+# print(duplicate_encode("Success"))
+
+
+# reasonably sure its O(n)
+def duplicate_encode2(word):
+    word = word.lower()
+    char_dict = {}
+    for i in word:
+        # average of O(1) complexity of in set/dict
+        char_dict[i] = ")" if i in char_dict else "("
+    return "".join(char_dict[i] for i in word)
+
+
+# print(duplicate_encode2("Success"))
