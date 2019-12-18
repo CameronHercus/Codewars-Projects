@@ -12,8 +12,9 @@ def increment_string(strng):
         return strng + "1"
 
 
-# need it to check just the last digit and if its 9 it needs to change otherwise just do str(int(index) + 1)
+"""
 print((increment_string("foobar0099")))
 print((increment_string("foobar01")))
 print((increment_string("")))
 print((increment_string("foo")))
+"""
