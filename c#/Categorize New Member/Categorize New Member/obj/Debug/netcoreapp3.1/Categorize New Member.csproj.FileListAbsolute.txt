@@ -1,0 +1,11 @@
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\bin\Debug\netcoreapp3.1\Categorize New Member.exe
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\bin\Debug\netcoreapp3.1\Categorize New Member.deps.json
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\bin\Debug\netcoreapp3.1\Categorize New Member.runtimeconfig.json
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\bin\Debug\netcoreapp3.1\Categorize New Member.runtimeconfig.dev.json
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\bin\Debug\netcoreapp3.1\Categorize New Member.dll
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\bin\Debug\netcoreapp3.1\Categorize New Member.pdb
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\obj\Debug\netcoreapp3.1\Categorize New Member.csprojAssemblyReference.cache
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\obj\Debug\netcoreapp3.1\Categorize New Member.AssemblyInfoInputs.cache
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\obj\Debug\netcoreapp3.1\Categorize New Member.AssemblyInfo.cs
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\obj\Debug\netcoreapp3.1\Categorize New Member.dll
+C:\Users\Cameron\codewarsprojects\c#\Categorize New Member\Categorize New Member\obj\Debug\netcoreapp3.1\Categorize New Member.pdb
