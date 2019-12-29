@@ -1,0 +1,11 @@
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\obj\Debug\netcoreapp3.1\Get the Middle Character.csprojAssemblyReference.cache
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\obj\Debug\netcoreapp3.1\Get the Middle Character.AssemblyInfoInputs.cache
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\obj\Debug\netcoreapp3.1\Get the Middle Character.AssemblyInfo.cs
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\bin\Debug\netcoreapp3.1\Get the Middle Character.exe
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\bin\Debug\netcoreapp3.1\Get the Middle Character.deps.json
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\bin\Debug\netcoreapp3.1\Get the Middle Character.runtimeconfig.json
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\bin\Debug\netcoreapp3.1\Get the Middle Character.runtimeconfig.dev.json
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\bin\Debug\netcoreapp3.1\Get the Middle Character.dll
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\bin\Debug\netcoreapp3.1\Get the Middle Character.pdb
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\obj\Debug\netcoreapp3.1\Get the Middle Character.dll
+C:\Users\Cameron\codewarsprojects\c#\Get the Middle Character\Get the Middle Character\obj\Debug\netcoreapp3.1\Get the Middle Character.pdb
