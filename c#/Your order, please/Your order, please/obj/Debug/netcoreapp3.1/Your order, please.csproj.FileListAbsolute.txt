@@ -1,0 +1,13 @@
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\bin\Debug\netcoreapp3.1\Your order, please.exe
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\obj\Debug\netcoreapp3.1\Your order, please.csprojAssemblyReference.cache
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\obj\Debug\netcoreapp3.1\Your order, please.AssemblyInfoInputs.cache
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\obj\Debug\netcoreapp3.1\Your order, please.AssemblyInfo.cs
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\bin\Debug\netcoreapp3.1\Your order, please.deps.json
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\bin\Debug\netcoreapp3.1\Your order, please.runtimeconfig.json
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\bin\Debug\netcoreapp3.1\Your order, please.runtimeconfig.dev.json
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\bin\Debug\netcoreapp3.1\Your order, please.dll
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\bin\Debug\netcoreapp3.1\Your order, please.pdb
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\obj\Debug\netcoreapp3.1\Your order, please.csproj.CopyComplete
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\obj\Debug\netcoreapp3.1\Your order, please.dll
+C:\Users\Cameron\codewarsprojects\c#\Your order, please\Your order, please\obj\Debug\netcoreapp3.1\Your order, please.pdb
