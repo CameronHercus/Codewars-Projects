@@ -1,0 +1,11 @@
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\obj\Debug\netcoreapp3.1\Sum of two lowest positive integers.csprojAssemblyReference.cache
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\obj\Debug\netcoreapp3.1\Sum of two lowest positive integers.AssemblyInfoInputs.cache
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\obj\Debug\netcoreapp3.1\Sum of two lowest positive integers.AssemblyInfo.cs
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\bin\Debug\netcoreapp3.1\Sum of two lowest positive integers.exe
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\bin\Debug\netcoreapp3.1\Sum of two lowest positive integers.deps.json
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\bin\Debug\netcoreapp3.1\Sum of two lowest positive integers.runtimeconfig.json
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\bin\Debug\netcoreapp3.1\Sum of two lowest positive integers.runtimeconfig.dev.json
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\bin\Debug\netcoreapp3.1\Sum of two lowest positive integers.dll
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\bin\Debug\netcoreapp3.1\Sum of two lowest positive integers.pdb
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\obj\Debug\netcoreapp3.1\Sum of two lowest positive integers.dll
+C:\Users\Cameron\codewarsprojects\c#\Sum of two lowest positive integers\Sum of two lowest positive integers\obj\Debug\netcoreapp3.1\Sum of two lowest positive integers.pdb
