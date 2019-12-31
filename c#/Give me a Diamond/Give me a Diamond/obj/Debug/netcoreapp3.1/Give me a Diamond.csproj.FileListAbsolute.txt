@@ -1,0 +1,11 @@
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\bin\Debug\netcoreapp3.1\Give me a Diamond.exe
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\bin\Debug\netcoreapp3.1\Give me a Diamond.deps.json
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\bin\Debug\netcoreapp3.1\Give me a Diamond.runtimeconfig.json
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\bin\Debug\netcoreapp3.1\Give me a Diamond.runtimeconfig.dev.json
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\bin\Debug\netcoreapp3.1\Give me a Diamond.dll
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\bin\Debug\netcoreapp3.1\Give me a Diamond.pdb
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\obj\Debug\netcoreapp3.1\Give me a Diamond.csprojAssemblyReference.cache
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\obj\Debug\netcoreapp3.1\Give me a Diamond.AssemblyInfoInputs.cache
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\obj\Debug\netcoreapp3.1\Give me a Diamond.AssemblyInfo.cs
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\obj\Debug\netcoreapp3.1\Give me a Diamond.dll
+C:\Users\Cameron\codewarsprojects\c#\Give me a Diamond\Give me a Diamond\obj\Debug\netcoreapp3.1\Give me a Diamond.pdb
