@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exes and Ohs/1.0.0": {
+        "runtime": {
+          "Exes and Ohs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exes and Ohs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\bin\Debug\netcoreapp3.1\Exes and Ohs.exe
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\bin\Debug\netcoreapp3.1\Exes and Ohs.deps.json
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\bin\Debug\netcoreapp3.1\Exes and Ohs.runtimeconfig.json
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\bin\Debug\netcoreapp3.1\Exes and Ohs.runtimeconfig.dev.json
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\bin\Debug\netcoreapp3.1\Exes and Ohs.dll
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\bin\Debug\netcoreapp3.1\Exes and Ohs.pdb
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\obj\Debug\netcoreapp3.1\Exes and Ohs.csprojAssemblyReference.cache
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\obj\Debug\netcoreapp3.1\Exes and Ohs.AssemblyInfoInputs.cache
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\obj\Debug\netcoreapp3.1\Exes and Ohs.AssemblyInfo.cs
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\obj\Debug\netcoreapp3.1\Exes and Ohs.dll
+C:\Users\Cameron\codewarsprojects\c#\Exes and Ohs\Exes and Ohs\obj\Debug\netcoreapp3.1\Exes and Ohs.pdb
