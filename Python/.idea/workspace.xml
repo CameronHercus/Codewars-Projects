@@ -15,9 +15,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1UzZO4QT7MosqP4z3xYQ0Zn5juN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,10 +26,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hackerrankprojects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.rot13">
+  <component name="RunManager" selected="Python.subarrays_with_consecutive_numbers">
     <configuration name="Compare-the-Triplets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewarsprojects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,27 +64,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pete-the-baker.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="String-incrementer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewarsprojects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String-incrementer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,13 +114,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="subarrays_with_consecutive_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codewarsprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Cameron\codewarsprojects\Python\subarrays_with_consecutive_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.subarrays_with_consecutive_numbers" />
         <item itemvalue="Python.rot13" />
         <item itemvalue="Python.linked_lists-loops" />
         <item itemvalue="Python.Compare-the-Triplets" />
         <item itemvalue="Python.Pete-the-baker" />
-        <item itemvalue="Python.String-incrementer" />
       </list>
     </recent_temporary>
   </component>
@@ -178,42 +179,54 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577339190223" />
-    <state width="1900" height="297" key="GridCell.Tab.0.bottom" timestamp="1577339091945">
+    <state width="1900" height="297" key="GridCell.Tab.0.bottom" timestamp="1578277799167">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577339091945" />
-    <state width="1900" height="297" key="GridCell.Tab.0.center" timestamp="1577339091945">
+    <state width="1900" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578277799167" />
+    <state width="1900" height="297" key="GridCell.Tab.0.center" timestamp="1578277799167">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="297" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577339091945" />
-    <state width="1900" height="297" key="GridCell.Tab.0.left" timestamp="1577339091945">
+    <state width="1900" height="297" key="GridCell.Tab.0.center/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578277799167" />
+    <state width="1900" height="297" key="GridCell.Tab.0.left" timestamp="1578277799167">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="297" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577339091945" />
-    <state width="1900" height="297" key="GridCell.Tab.0.right" timestamp="1577339091945">
+    <state width="1900" height="297" key="GridCell.Tab.0.left/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578277799167" />
+    <state width="1900" height="297" key="GridCell.Tab.0.right" timestamp="1578277799167">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="297" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577339091945" />
-    <state width="1900" height="363" key="GridCell.Tab.1.bottom" timestamp="1576818736451">
+    <state width="1900" height="297" key="GridCell.Tab.0.right/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578277799167" />
+    <state width="1900" height="363" key="GridCell.Tab.1.bottom" timestamp="1578272533189">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576818736451" />
-    <state width="1900" height="363" key="GridCell.Tab.1.center" timestamp="1576818736451">
+    <state width="1900" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578272533189" />
+    <state width="1900" height="363" key="GridCell.Tab.1.center" timestamp="1578272533189">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="363" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576818736451" />
-    <state width="1900" height="363" key="GridCell.Tab.1.left" timestamp="1576818736451">
+    <state width="1900" height="363" key="GridCell.Tab.1.center/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578272533189" />
+    <state width="1900" height="363" key="GridCell.Tab.1.left" timestamp="1578272533188">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="363" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576818736451" />
-    <state width="1900" height="363" key="GridCell.Tab.1.right" timestamp="1576818736451">
+    <state width="1900" height="363" key="GridCell.Tab.1.left/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578272533188" />
+    <state width="1900" height="363" key="GridCell.Tab.1.right" timestamp="1578272533189">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576818736451" />
+    <state width="1900" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578272533189" />
     <state x="491" y="184" key="SettingsEditor" timestamp="1576813039890">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="491" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576813039890" />
+    <state x="701" y="186" key="refactoring.ChangeSignatureDialog" timestamp="1578191222767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="701" y="186" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578191222767" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1576983972239">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
