@@ -26,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Sudoku-Solver" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.subarrays_with_consecutive_numbers">
@@ -175,10 +175,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576453035467" />
-    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1577339190223">
+    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1578342398785">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577339190223" />
+    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578342398785" />
     <state width="1900" height="297" key="GridCell.Tab.0.bottom" timestamp="1578277799167">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
