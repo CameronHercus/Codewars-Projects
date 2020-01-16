@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -18,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,9 +53,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="283" key="FileChooserDialogImpl" timestamp="1578085008583">
+    <state x="739" y="283" key="FileChooserDialogImpl" timestamp="1578953205567">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="739" y="283" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578953205567" />
     <state x="739" y="283" key="FileChooserDialogImpl/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578085008583" />
     <state x="614" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1578084972232">
       <screen x="0" y="0" width="1920" height="1080" />
