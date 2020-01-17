@@ -7,6 +7,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -17,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Vtv4XJN8XAwZ07U5x6NP6LdmWb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,13 +58,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.PokerHandTest">
-    <configuration name="FindTheMissingLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindTheMissingLetter" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HighestAndLowest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HighestAndLowest" />
       <module name="Java" />
@@ -95,6 +100,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PokerHandTest.checkFourOfAKind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Poker.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Poker.Test" />
+      <option name="MAIN_CLASS_NAME" value="Poker.Test.PokerHandTest" />
+      <option name="METHOD_NAME" value="checkFourOfAKind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PokerHandTest.checkRoyalFlush" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
@@ -132,9 +153,9 @@
       <list>
         <item itemvalue="JUnit.PokerHandTest" />
         <item itemvalue="Application.PokerHand (1)" />
+        <item itemvalue="JUnit.PokerHandTest.checkFourOfAKind" />
         <item itemvalue="JUnit.PokerHandTest.checkRoyalFlush" />
         <item itemvalue="Application.PokerHand" />
-        <item itemvalue="Application.FindTheMissingLetter" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +185,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="200" key="#Code_Folding" timestamp="1579226027489">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="200" key="#Code_Folding/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579226027488" />
     <state x="552" y="200" key="#Console" timestamp="1578168584091">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -205,59 +230,59 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="608" y="351" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579121462605" />
-    <state width="1879" height="336" key="GridCell.Tab.0.bottom" timestamp="1579126843374">
+    <state width="1879" height="281" key="GridCell.Tab.0.bottom" timestamp="1579239709851">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="473" height="952" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578704085052" />
-    <state width="1879" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579126843374" />
+    <state width="1879" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579239709851" />
     <state width="473" height="952" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578173031654" />
-    <state width="1879" height="336" key="GridCell.Tab.0.center" timestamp="1579126843374">
+    <state width="1879" height="281" key="GridCell.Tab.0.center" timestamp="1579239709850">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="473" height="952" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578704085051" />
-    <state width="1879" height="336" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579126843374" />
+    <state width="1879" height="281" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579239709850" />
     <state width="473" height="952" key="GridCell.Tab.0.center/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578173031654" />
-    <state width="1879" height="336" key="GridCell.Tab.0.left" timestamp="1579126843374">
+    <state width="1879" height="281" key="GridCell.Tab.0.left" timestamp="1579239709850">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="473" height="952" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578704085051" />
-    <state width="1879" height="336" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579126843374" />
+    <state width="1879" height="281" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579239709850" />
     <state width="473" height="952" key="GridCell.Tab.0.left/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578173031654" />
-    <state width="1879" height="336" key="GridCell.Tab.0.right" timestamp="1579126843374">
+    <state width="1879" height="281" key="GridCell.Tab.0.right" timestamp="1579239709851">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="473" height="952" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578704085052" />
-    <state width="1879" height="336" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579126843374" />
+    <state width="1879" height="281" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579239709851" />
     <state width="473" height="952" key="GridCell.Tab.0.right/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578173031654" />
-    <state width="1879" height="362" key="GridCell.Tab.1.bottom" timestamp="1579122098716">
+    <state width="1879" height="361" key="GridCell.Tab.1.bottom" timestamp="1579153954706">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1879" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579122098716" />
+    <state width="1879" height="361" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579153954706" />
     <state width="1879" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578169984715" />
-    <state width="1879" height="362" key="GridCell.Tab.1.center" timestamp="1579122098716">
+    <state width="1879" height="361" key="GridCell.Tab.1.center" timestamp="1579153954706">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1879" height="362" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579122098716" />
+    <state width="1879" height="361" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579153954706" />
     <state width="1879" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578169984715" />
-    <state width="1879" height="362" key="GridCell.Tab.1.left" timestamp="1579122098716">
+    <state width="1879" height="361" key="GridCell.Tab.1.left" timestamp="1579153954706">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1879" height="362" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579122098716" />
+    <state width="1879" height="361" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579153954706" />
     <state width="1879" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578169984715" />
-    <state width="1879" height="362" key="GridCell.Tab.1.right" timestamp="1579122098716">
+    <state width="1879" height="361" key="GridCell.Tab.1.right" timestamp="1579153954706">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1879" height="362" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579122098716" />
+    <state width="1879" height="361" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579153954706" />
     <state width="1879" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578169984715" />
     <state x="491" y="184" key="SettingsEditor" timestamp="1579121468844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="491" y="184" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579121468844" />
-    <state x="614" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1579119577549">
+    <state x="614" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1579223074499">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="614" y="366" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578688317226" />
-    <state x="614" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579119577549" />
+    <state x="614" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579223074499" />
     <state x="614" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578168676519" />
     <state x="731" y="245" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579121664401">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -278,5 +303,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$PokerHandTest_checkFourOfAKind.ic" NAME="PokerHandTest.checkFourOfAKind Coverage Results" MODIFIED="1579154100428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Poker.Test.*</FILTER>
+    </SUITE>
   </component>
 </project>
