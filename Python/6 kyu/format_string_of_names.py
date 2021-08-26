@@ -13,6 +13,7 @@ If you liked this kata, check out part 2!!
 
 
 def namelist(names):
+
     if len(names) > 1:
         str1 = ", ".join([j + " & " + names[-1]["name"]
                           if i + 2 == len(names) else j for i, j in enumerate(d["name"] for d in names)

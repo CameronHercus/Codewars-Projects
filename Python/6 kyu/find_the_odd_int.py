@@ -3,6 +3,8 @@
 Given an array of integers, find the one that appears an odd number of times.
 There will always be only one integer that appears an odd number of times.
 """
+
+
 def find_it(seq):
     blank = {}
     for i in seq:
@@ -15,11 +17,12 @@ def find_it(seq):
             return j
     return None
 
+
 # Alternative solution but slower
 # def find_it(seq):
 #     for i in seq:
 #         if seq.count(i) % 2 != 0:
 #             return i
 
-print(find_it([1,2,2,3,3,3,4,3,3,3,2,2,1]))
-#expected value 4
+print(find_it([1, 2, 2, 3, 3, 3, 4, 3, 3, 3, 2, 2, 1]))
+# expected value 4

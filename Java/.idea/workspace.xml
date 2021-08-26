@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b595abb-4893-48c6-b6f8-eef596dce4fd" name="Default Changelist" comment="" />
+    <list default="true" id="9b595abb-4893-48c6-b6f8-eef596dce4fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/6 kyu/iq_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/6 kyu/array_diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/6 kyu/array_diff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/6 kyu/counting_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/6 kyu/counting_duplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/6 kyu/digital_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/6 kyu/digital_root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/6 kyu/find_the_odd_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/6 kyu/find_the_odd_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/6 kyu/find_the_parity_outlier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/6 kyu/find_the_parity_outlier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/6 kyu/format_string_of_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/6 kyu/format_string_of_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/6 kyu/which_are_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/6 kyu/which_are_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/7 kyu/vowel_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/7 kyu/vowel_count.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,20 +48,23 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -171,6 +188,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -183,115 +201,6 @@
       <updated>1578085014961</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="200" key="#Code_Folding" timestamp="1579226027489">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="200" key="#Code_Folding/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579226027488" />
-    <state x="552" y="200" key="#Console" timestamp="1578168584091">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="200" key="#Console/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578168584091" />
-    <state x="503" y="172" key="#Poker.Test_in_Java" timestamp="1579121526443">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="503" y="172" key="#Poker.Test_in_Java/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579121526443" />
-    <state x="552" y="200" key="#Project_Structure" timestamp="1578085064653">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="200" key="#Project_Structure/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578085064653" />
-    <state x="765" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1578095665378">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="765" y="251" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578095665378" />
-    <state x="690" y="318" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579121656001">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="690" y="318" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579121656001" />
-    <state x="841" y="303" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1579121464039">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="841" y="303" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579121464039" />
-    <state x="712" y="427" width="495" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579044463490">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="712" y="427" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579044463490" />
-    <state x="712" y="427" width="495" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578173015694" />
-    <state x="741" y="364" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1579121379688">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="741" y="364" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579121379688" />
-    <state x="314" y="413" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579059841730">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="314" y="413" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579059841730" />
-    <state x="608" y="351" key="FileChooserDialogImpl" timestamp="1579121462605">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="608" y="351" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579121462605" />
-    <state width="1879" height="281" key="GridCell.Tab.0.bottom" timestamp="1579239709851">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="473" height="952" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578704085052" />
-    <state width="1879" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579239709851" />
-    <state width="473" height="952" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578173031654" />
-    <state width="1879" height="281" key="GridCell.Tab.0.center" timestamp="1579239709850">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="473" height="952" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578704085051" />
-    <state width="1879" height="281" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579239709850" />
-    <state width="473" height="952" key="GridCell.Tab.0.center/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578173031654" />
-    <state width="1879" height="281" key="GridCell.Tab.0.left" timestamp="1579239709850">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="473" height="952" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578704085051" />
-    <state width="1879" height="281" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579239709850" />
-    <state width="473" height="952" key="GridCell.Tab.0.left/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578173031654" />
-    <state width="1879" height="281" key="GridCell.Tab.0.right" timestamp="1579239709851">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="473" height="952" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578704085052" />
-    <state width="1879" height="281" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579239709851" />
-    <state width="473" height="952" key="GridCell.Tab.0.right/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578173031654" />
-    <state width="1879" height="361" key="GridCell.Tab.1.bottom" timestamp="1579153954706">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1879" height="361" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579153954706" />
-    <state width="1879" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578169984715" />
-    <state width="1879" height="361" key="GridCell.Tab.1.center" timestamp="1579153954706">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1879" height="361" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579153954706" />
-    <state width="1879" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578169984715" />
-    <state width="1879" height="361" key="GridCell.Tab.1.left" timestamp="1579153954706">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1879" height="361" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579153954706" />
-    <state width="1879" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578169984715" />
-    <state width="1879" height="361" key="GridCell.Tab.1.right" timestamp="1579153954706">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1879" height="361" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579153954706" />
-    <state width="1879" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578169984715" />
-    <state x="491" y="184" key="SettingsEditor" timestamp="1579121468844">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="491" y="184" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579121468844" />
-    <state x="614" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1579223074499">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="614" y="366" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1578688317226" />
-    <state x="614" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579223074499" />
-    <state x="614" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578168676519" />
-    <state x="731" y="245" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579121664401">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="731" y="245" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579121664401" />
-    <state x="223" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1579053543908">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="223" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1579053543908" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -24,4 +24,5 @@ def duplicate_count(text):
                 counter_set.add(i)
     return len(counter_set)
 
+
 print(duplicate_count("abcdeaB"))

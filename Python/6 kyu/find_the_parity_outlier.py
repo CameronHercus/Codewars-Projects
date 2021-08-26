@@ -6,6 +6,7 @@ The array is either entirely comprised of odd integers or entirely comprised of 
 integer N. Write a method that takes the array as an argument and returns this "outlier" N.
 """
 
+
 def find_outlier(integers):
     first_3 = integers[0] % 2 + integers[1] % 2 + integers[2] % 2
     if first_3 < 2:
