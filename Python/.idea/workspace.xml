@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d24865-623c-46ef-8bcc-9f64353fbd37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 kyu/iq_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 kyu/replace_with_alphabet_position.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6 kyu/convert_str_to_camel_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/mumbling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/square_every_digit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 kyu/array_diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/array_diff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 kyu/counting_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/counting_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 kyu/digital_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/digital_root.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 kyu/find_the_odd_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/find_the_odd_int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 kyu/find_the_parity_outlier.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/find_the_parity_outlier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 kyu/format_string_of_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/format_string_of_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 kyu/which_are_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/which_are_in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7 kyu/vowel_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/vowel_count.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +38,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.replace_with_alphabet_position">
-    <configuration name="digital_root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cameron\Desktop\Codewars GITHUB\codewarsprojects\Python\7 kyu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.square_every_digit">
+    <configuration name="convert_str_to_camel_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,31 +53,10 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 kyu" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/digital_root.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="find_the_odd_int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 kyu" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/find_the_odd_int.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/convert_str_to_camel_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +107,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mumbling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Cameron\Desktop\Codewars GITHUB\codewarsprojects\Python\7 kyu\mumbling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="replace_with_alphabet_position" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,6 +141,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/replace_with_alphabet_position.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="square_every_digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/square_every_digit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,43 +191,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vowel_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/vowel_count.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.digital_root" />
-      <item itemvalue="Python.find_the_odd_int" />
-      <item itemvalue="Python.vowel_count" />
       <item itemvalue="Python.iq_test" />
       <item itemvalue="Python.replace_with_alphabet_position" />
+      <item itemvalue="Python.convert_str_to_camel_case" />
+      <item itemvalue="Python.mumbling" />
+      <item itemvalue="Python.square_every_digit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.square_every_digit" />
+        <item itemvalue="Python.mumbling" />
+        <item itemvalue="Python.convert_str_to_camel_case" />
         <item itemvalue="Python.replace_with_alphabet_position" />
         <item itemvalue="Python.iq_test" />
-        <item itemvalue="Python.vowel_count" />
-        <item itemvalue="Python.find_the_odd_int" />
-        <item itemvalue="Python.digital_root" />
       </list>
     </recent_temporary>
   </component>
