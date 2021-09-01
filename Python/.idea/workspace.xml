@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d24865-623c-46ef-8bcc-9f64353fbd37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6 kyu/convert_str_to_camel_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/mumbling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/square_every_digit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -192,13 +190,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.iq_test" />
-      <item itemvalue="Python.replace_with_alphabet_position" />
       <item itemvalue="Python.convert_str_to_camel_case" />
+      <item itemvalue="Python.iq_test" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.mumbling" />
+      <item itemvalue="Python.replace_with_alphabet_position" />
       <item itemvalue="Python.square_every_digit" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
