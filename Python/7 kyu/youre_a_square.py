@@ -14,10 +14,13 @@ That's it!
 You just have to check if your number of building blocks is a perfect square.
 """
 import math
-def is_square(n):  
+
+
+def is_square(n):
     if n > -1 and math.sqrt(n) % 1 == 0:
         return True
     return False
+
 
 print(is_square(-1))
 print(is_square(493193))
