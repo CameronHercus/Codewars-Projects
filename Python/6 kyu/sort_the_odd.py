@@ -5,7 +5,7 @@
 
 def sort_array(source_array):
     """Return a sorted array."""
-    odd_array = [i for i in source_array if i %2==1]
+    odd_array = [i for i in source_array if i % 2 == 1]
     odd_array.sort()
     counter = 0
     for j in range(len(source_array)):

@@ -1,6 +1,9 @@
+"""
+6 kyu - Playing with passphrases
+"""
 import string
 def play_pass(s, n):
-    """work pls"""
+    """6 kyu - Playing with passphrases"""
     lower_list = string.ascii_lowercase
     upper_list = string.ascii_uppercase
     final = []
@@ -8,10 +11,8 @@ def play_pass(s, n):
         if j.isalpha() is True:
             if i % 2 == 1:
                 final.append(lower_list[(lower_list.index(j.lower()) + n) % 26])
-                print((lower_list.index(j.lower()) + n) % 26)
             else:
                 final.append(upper_list[(upper_list.index(j.upper()) + n) % 26])
-                print((upper_list.index(j.upper()) + n) % 26)
         elif j.isdigit():
             final.append(str(complement(int(j))))
         else:
@@ -24,6 +25,8 @@ def complement(number):
         if i + number == 9:
             return i
     return 9
+
+    
 print(play_pass("xy", 1))
 
 print(complement(9))
